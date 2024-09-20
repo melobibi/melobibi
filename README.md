@@ -33,7 +33,7 @@ $${\color{#383c45}" My \space Sweethearts  \space Piano \space  is \space rat-fi
 
 <div align="center"> 
 	
-☆ [_Strawpage_](https://ellierocks.straw.page)☆[_Atabook_](https://ellieparkerbutpixel.atabook.org/)  ☆ [_Support Palestine_](https://arab.org/click-to-help/palestine/)
+- [_Strawpage_](https://ellierocks.straw.page) - [_Atabook_](https://ellieparkerbutpixel.atabook.org/)  - [_Support Palestine_](https://arab.org/click-to-help/palestine/)
 
 
 ![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=543034)
