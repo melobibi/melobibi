@@ -4,14 +4,14 @@
 
 
 <div align="center">
-	<img width = "900" src="https://64.media.tumblr.com/fa95b57279e9b3d04318ad798f581b16/a2fc018ee16e2e0d-c6/s400x600/d654ad9c44c4e3660f3e90700e09bdaaa2f597fe.pnj">->
+	<img width = "850" src="https://64.media.tumblr.com/65180d519f3b874c49974b5b33fd8fdb/95dde4dfb101d4de-3e/s400x600/66d059c352ba3583144916a2ad8419aeb1427e77.pnj"
 </div>
 
 
 
 
 <div align="center">
-	<img width = "500" src="https://64.media.tumblr.com/22b781694a5dae67a8900e9fda6dace2/4213eaa277ea8865-bd/s400x600/3792fb1d62651355abfbf2a984275cacdfc1d392.gifv">->
+	<img width = "555" src="https://64.media.tumblr.com/772601a28648c04cf1c9690687bb8265/232d390e5f4723e7-b0/s400x600/3ffcdcb18afbbd31fb83a56851b4030eb5f3effe.pnj"
 </div>
 
 
@@ -19,12 +19,13 @@
 
 
 <p align="center"> 
-$${\color{#383c45}" My \space Sweethearts  \space Piano \space  is \space rat-filled..  " }$$
+$${\color{#544144}" hey\space \ mr \space rager   " }$$
 
 </p>
 
 <div align="center">
-	<img width = "500" src="https://static.wikia.nocookie.net/disventure-camp/images/5/5b/Chapter8gabbellie_2.png/revision/latest/scale-to-width-down/1000?cb=20230921215344">->
+	<img width = "500" src="https://static.wikia.nocookie.net/d6ae651b-3bd9-4c93-84db-95867a247569/scale-to-width/370"
+
 </div>
 
 
@@ -33,15 +34,14 @@ $${\color{#383c45}" My \space Sweethearts  \space Piano \space  is \space rat-fi
 
 <div align="center"> 
 	
-- [_Strawpage_](https://ellierocks.straw.page) - [_Atabook_](https://ellieparkerbutpixel.atabook.org/)  - [_Support Palestine_](https://arab.org/click-to-help/palestine/)
-
+ [_Strawpage_](https://ellierocks.straw.page) - [_Atabook_](https://ellieparkerbutpixel.atabook.org/)  - [_Support Palestine_](https://arab.org/click-to-help/palestine/)
 
 ![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=543034)
 
 
 
 <div align="center">
-	<img width = "500" src="https://64.media.tumblr.com/22b781694a5dae67a8900e9fda6dace2/4213eaa277ea8865-bd/s400x600/3792fb1d62651355abfbf2a984275cacdfc1d392.gifv">->
+	<img width = "540" src="https://64.media.tumblr.com/a48ced4ae99ba5368119e46edcc8ee15/232d390e5f4723e7-50/s400x600/8bcf48b55ccdeeb8c41c6df72fe69dfeb18862ba.pnj" 
 </div>
 
 
@@ -50,7 +50,7 @@ $${\color{#383c45}" My \space Sweethearts  \space Piano \space  is \space rat-fi
 
 
 <div align="center">
-	<img width = "900" src="https://64.media.tumblr.com/8b751208f9953f5472bac941271f1a17/a2fc018ee16e2e0d-68/s2048x3072/ba6d446d43a2fd5e2d23ebf56fcf1b2810ad19a7.pnj">->
+	<img width = "860" src="https://64.media.tumblr.com/0a2102f0737df129991a60cd9a1947d4/95dde4dfb101d4de-64/s2048x3072/be1ceffeb128f478dd264b3386759d3655061b73.pnj"
 </div>
 
 
