@@ -4,14 +4,14 @@
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/65180d519f3b874c49974b5b33fd8fdb/95dde4dfb101d4de-3e/s400x600/66d059c352ba3583144916a2ad8419aeb1427e77.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/4c3758b524a7e5b5ac23a671c00da469/3ccdb8309ae367eb-c3/s400x600/dbda7033299247e1f9dbfd206cd5d25bb9fafd59.pnj"
 </div>
 
 
 
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/772601a28648c04cf1c9690687bb8265/232d390e5f4723e7-b0/s400x600/3ffcdcb18afbbd31fb83a56851b4030eb5f3effe.pnj"
+	<img width = "555" src="https://64.media.tumblr.com/b2d56a76fa8fb596cc2609fef2ebd597/e0ef561e9ec3e6c9-02/s540x810/b38f36f71d7b3b92d0bb56de2ec1572472153b9b.pnj"
 </div>
 
 
@@ -19,12 +19,12 @@
 
 
 <p align="center"> 
-$${\color{#544144}" hey\space \ mr \space rager   " }$$
+$${\color{#c9f0ff}" ill \space love \space you \space till \space the \space day \space that \space i \space die   " }$$
 
 </p>
 
 <div align="center">
-	<img width = "500" src="https://static.wikia.nocookie.net/d6ae651b-3bd9-4c93-84db-95867a247569/scale-to-width/370"
+	<img width = "500" src="https://media.discordapp.net/attachments/1268306594047721544/1289715102597251112/blur_edges_1.png?ex=66f9d44a&is=66f882ca&hm=7544197b649bc248906c3110210dc5fdbbe1fdcadd0ef6a00396155e2c4b348e&=&format=webp&quality=lossless&width=565&height=565"
 
 </div>
 
@@ -36,12 +36,12 @@ $${\color{#544144}" hey\space \ mr \space rager   " }$$
 	
  [_Strawpage_](https://ellierocks.straw.page) - [_Atabook_](https://ellieparkerbutpixel.atabook.org/)  - [_Support Palestine_](https://arab.org/click-to-help/palestine/)
 
-![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=543034)
+![](https://komarev.com/ghpvc/?username=neurodiellie&label=🧸&style=for-the-badge&color=c9f0ff)
 
 
 
 <div align="center">
-	<img width = "540" src="https://64.media.tumblr.com/a48ced4ae99ba5368119e46edcc8ee15/232d390e5f4723e7-50/s400x600/8bcf48b55ccdeeb8c41c6df72fe69dfeb18862ba.pnj" 
+	<img width = "555" src="https://64.media.tumblr.com/dc8cbcd5dc0ecf8df652defac331fa17/e0ef561e9ec3e6c9-23/s540x810/2b612ea568974d247e5e5994d00e1878af0cca25.pnj"
 </div>
 
 
@@ -50,7 +50,7 @@ $${\color{#544144}" hey\space \ mr \space rager   " }$$
 
 
 <div align="center">
-	<img width = "860" src="https://64.media.tumblr.com/0a2102f0737df129991a60cd9a1947d4/95dde4dfb101d4de-64/s2048x3072/be1ceffeb128f478dd264b3386759d3655061b73.pnj"
+	<img width = "860" src="https://64.media.tumblr.com/4c3758b524a7e5b5ac23a671c00da469/3ccdb8309ae367eb-c3/s400x600/dbda7033299247e1f9dbfd206cd5d25bb9fafd59.pnj"
 </div>
 
 
