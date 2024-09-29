@@ -24,7 +24,7 @@ $${\color{#c9f0ff}" ill \space love \space you \space till \space the \space day
 </p>
 
 <div align="center">
-	<img width = "500" src="https://media.discordapp.net/attachments/1268306594047721544/1289715102597251112/blur_edges_1.png?ex=66f9d44a&is=66f882ca&hm=7544197b649bc248906c3110210dc5fdbbe1fdcadd0ef6a00396155e2c4b348e&=&format=webp&quality=lossless&width=565&height=565"
+	<img width = "500" src="https://media.discordapp.net/attachments/1268306594047721544/1289947319701082142/blur_edges_3.png?ex=66faac8f&is=66f95b0f&hm=aef6113a1136951459658a27fa8deae1fe00ae431eb2a7d1e9f7d74e81715704&=&format=webp&quality=lossless&width=563&height=565"
 
 </div>
 
