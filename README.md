@@ -19,7 +19,7 @@
 
 
 <p align="center"> 
-$${\color{#c9f0ff}" ill \space love \space you \space till \space the \space day \space that \space i \space die   " }$$
+$${\color{#c9f0ff}" have \space they \space really \space domesticated \space me " }$$
 
 </p>
 
@@ -54,5 +54,5 @@ $${\color{#c9f0ff}" ill \space love \space you \space till \space the \space day
 </div>
 
 
-![Alt text](https://adriansblinkiecollection.neocities.org/stamps/k28.png)  ![Alt text](https://adriansblinkiecollection.neocities.org/stamps/c2.gif)   ![Alt text](https://raining-starss.neocities.org/thebread%20(2).png)
+![Alt text](https://y2k.neocities.org/stamps2/gummy_sharks_by_bunsona-d9wuhub.png)  ![Alt text](https://files.catbox.moe/iq5tk5.gif) ![Alt Text](https://supplies.ju.mp/assets/images/gallery01/09d7254c.png?v=c214c26a)  ![Alt text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/22dd7eb7-4a1f-491c-93ef-22d85cf43eea/d6qirgu-36d76696-0464-4082-a180-8ff544200445.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIyZGQ3ZWI3LTRhMWYtNDkxYy05M2VmLTIyZDg1Y2Y0M2VlYVwvZDZxaXJndS0zNmQ3NjY5Ni0wNDY0LTQwODItYTE4MC04ZmY1NDQyMDA0NDUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.wTzGhGWjW68evww0DZwYUYmPbZdKVfb3pco0iq8KQjs)
 
