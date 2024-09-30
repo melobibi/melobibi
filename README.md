@@ -19,7 +19,7 @@
 
 
 <p align="center"> 
-$${\color{#c9f0ff}" have \space they \space really \space domesticated \space me " }$$
+$${\color{#c9f0ff}" im \space a \space scarecrow \space in \space someone \space elses \space garden \space " }$$
 
 </p>
 
