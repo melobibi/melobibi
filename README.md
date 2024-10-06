@@ -4,7 +4,7 @@
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/c53a26f1100ffae284a11e873d3e9233/5e809c3c06b1ae92-0f/s640x960/61d4c1474cd9102bf65d35f42195245e94818cb0.gifv"
+	<img width = "850" src="https://i.ibb.co/sJVc3Yh/IMG-6111.png"
 </div>
 
 
@@ -12,7 +12,7 @@
 
 
 <div align="center">
-	<img width = "555" src="https://wilardo.crd.co/assets/images/gallery05/56afe5d9.png?v=bca827db"
+	<img width = "555" src="https://64.media.tumblr.com/649f991354e48a809c472646b1a4c42b/e1b1142484d86b2d-39/s400x600/384d670c0f4a66c85915e4f7506dfe7abccaf18b.gifv"
 </div>
 
 
@@ -23,7 +23,7 @@
 <br />
 
 <p align="center"> 
-$${\color{#e83f33}" The \space hues \space in \space our \space hair \space compliment \space one \space another \space !! \space  " }$$
+$${\color{#3a5e44}" Stuck \space by \space the \space glue, \space right \space onto \space you  " }$$
 
 </p>
 
@@ -40,9 +40,9 @@ $${\color{#e83f33}" The \space hues \space in \space our \space hair \space comp
 
 <div align="center"> 
 	
- - [_Sign ata_](https://ellieparkerbutpixel.atabook.org/)  - [_Support palestine_](https://arab.org/click-to-help/palestine/) - [_rentry_](https://rentry.co/kacakym3)
+ - [Atabook](https://ellieparkerbutpixel.atabook.org/)  - [Support palestine](https://arab.org/click-to-help/palestine/) - [Rentry](https://rentry.co/kacakym3)
 
-![](https://komarev.com/ghpvc/?username=neurodiellie&label=🌙&style=for-the-badge&color=7fccdb)
+![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=3a5e44)
 
 	
 
@@ -55,8 +55,9 @@ $${\color{#e83f33}" The \space hues \space in \space our \space hair \space comp
 ![Alt text](https://plasticdino.neocities.org/blinkie/friends.gif)  ![Alt text](https://plasticdino.neocities.org/blinkie/artistblinkie.gif) ![Alt Text](https://plasticdino.neocities.org/blinkie/coloursdontrun.gif)  ![Alt text](https://plasticdino.neocities.org/blinkie/C0-F554-D8-9-C59-4-D47-99-C5-F6-B8-C5283514.gif)
 
 
+
 <div align="center">
-	<img width = "555" src="https://wilardo.crd.co/assets/images/gallery05/56afe5d9.png?v=bca827db"
+	<img width = "555" src="https://64.media.tumblr.com/649f991354e48a809c472646b1a4c42b/e1b1142484d86b2d-39/s400x600/384d670c0f4a66c85915e4f7506dfe7abccaf18b.gifv"
 </div>
 
 
@@ -65,7 +66,7 @@ $${\color{#e83f33}" The \space hues \space in \space our \space hair \space comp
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/c53a26f1100ffae284a11e873d3e9233/5e809c3c06b1ae92-0f/s640x960/61d4c1474cd9102bf65d35f42195245e94818cb0.gifv"
+	<img width = "850" src="https://i.ibb.co/sJVc3Yh/IMG-6111.png"
 </div>
 
 
