@@ -4,7 +4,7 @@
 
 
 <div align="center">
-	<img width = "850" src="https://autism.crd.co/assets/images/gallery01/ab97ae50.gif?v=1be2f3c4"
+	<img width = "850" src="https://64.media.tumblr.com/7d7ae6a763532c380c262b4915cba05b/21314875a66b76a7-51/s540x810/66400169af8af5e46c445da8d7195bc799e6d9de.pnj"
 </div>
 
 
@@ -23,7 +23,7 @@
 <br />
 
 <p align="center"> 
-$${\color{#3a5e44}" paging \space doctor \space beat! \space Emergency!!  " }$$
+$${\color{#3a5e44}" I \space really \space like \space your \space spotty \space sweater  " }$$
 
 </p>
 
@@ -67,7 +67,7 @@ $${\color{#3a5e44}" paging \space doctor \space beat! \space Emergency!!  " }$$
 
 
 <div align="center">
-	<img width = "850" src="https://autism.crd.co/assets/images/gallery01/ab97ae50.gif?v=1be2f3c4"
+	<img width = "850" src="https://64.media.tumblr.com/61a857a80e009b59001ee96583f3c91a/21314875a66b76a7-99/s540x810/a54e22047ddb68f6d683a3e8fde15005d542db57.pnj"
 </div>
 
 
