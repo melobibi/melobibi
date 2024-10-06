@@ -40,7 +40,8 @@ $${\color{#3a5e44}" Stuck \space by \space the \space glue, \space right \space 
 
 <div align="center"> 
 	
- - [Atabook](https://ellieparkerbutpixel.atabook.org/)  - [Support palestine](https://arab.org/click-to-help/palestine/) - [Rentry](https://rentry.co/kacakym3)
+ -
+[Strawpage](https://ellierocks.straw.page) -  [Atabook](https://ellieparkerbutpixel.atabook.org/)  - [Support palestine](https://arab.org/click-to-help/palestine/) - [Rentry](https://rentry.co/kacakym3)
 
 ![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=3a5e44)
 
