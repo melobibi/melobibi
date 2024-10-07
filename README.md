@@ -4,7 +4,7 @@
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/7d7ae6a763532c380c262b4915cba05b/21314875a66b76a7-51/s540x810/66400169af8af5e46c445da8d7195bc799e6d9de.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/171e10b4a7b9b58c7e90dbbdf1a9de60/9b3d23371e389d3a-0a/s400x600/6fc3b43aa48bf0c42d33293d4b6e61c3015f94b0.pnj"
 </div>
 
 
@@ -12,7 +12,7 @@
 
 
 <div align="center">
-	<img width = "555" src="https://autism.crd.co/assets/images/gallery01/d53549e1.gif?v=1be2f3c4"
+	<img width = "555" src="https://64.media.tumblr.com/ad11e38ff04bb8c14f2a5db9be0746cf/6d6a639539246533-3d/s400x600/29d8613f90527f214fa197ffcf4ccf048da515c5.pnj"
 </div>
 
 
@@ -34,7 +34,7 @@ $${\color{#3a5e44}" I \space really \space like \space your \space spotty \space
 
 
 <div align="center">
-	<img width = "500" src="https://64.media.tumblr.com/12f5cfcd5883969e64f29ffe512a11ee/2122bab7edc4e6f9-e9/s400x600/65858ffc57384f53038d5f50d4f20761095f6acf.pnj"
+	<img width = "500" src="https://64.media.tumblr.com/02bc2459930712f968de4f14b38158e9/a9c1c1861b86c1fe-d3/s400x600/ccfa0f2e046ffaa5a36be76ee5d593ff0c1a6e60.pnj"
 
 
 
@@ -43,7 +43,7 @@ $${\color{#3a5e44}" I \space really \space like \space your \space spotty \space
  -
 [Strawpage](https://ellierocks.straw.page) -  [Atabook](https://ellieparkerbutpixel.atabook.org/)  - [Support palestine](https://arab.org/click-to-help/palestine/) - [Rentry](https://rentry.co/kacakym3)
 
-![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=3a5e44)
+![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=e8e8e8)
 
 	
 
@@ -58,7 +58,7 @@ $${\color{#3a5e44}" I \space really \space like \space your \space spotty \space
 
 
 <div align="center">
-	<img width = "555" src="https://autism.crd.co/assets/images/gallery01/d53549e1.gif?v=1be2f3c4"
+	<img width = "555" src="https://64.media.tumblr.com/ad11e38ff04bb8c14f2a5db9be0746cf/6d6a639539246533-3d/s400x600/29d8613f90527f214fa197ffcf4ccf048da515c5.pnj"
 </div>
 
 
@@ -67,7 +67,7 @@ $${\color{#3a5e44}" I \space really \space like \space your \space spotty \space
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/61a857a80e009b59001ee96583f3c91a/21314875a66b76a7-99/s540x810/a54e22047ddb68f6d683a3e8fde15005d542db57.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/e82dc06591be1abbf671f641c7770166/9b3d23371e389d3a-dd/s400x600/eb0335b95b92b95a9841bbdc37f8ac14f9d31ea3.pnj"
 </div>
 
 
