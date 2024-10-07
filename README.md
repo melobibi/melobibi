@@ -12,7 +12,7 @@
 
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/ad11e38ff04bb8c14f2a5db9be0746cf/6d6a639539246533-3d/s400x600/29d8613f90527f214fa197ffcf4ccf048da515c5.pnj"
+	<img width = "555" src="https://64.media.tumblr.com/ad5c17436fa735c3f1e816601ee9bf8a/6d6a639539246533-6e/s400x600/dac806fb60da0db1f4d11933f0f4fcbfdcf29ec8.pnj"
 </div>
 
 
@@ -23,12 +23,12 @@
 <br />
 
 <p align="center"> 
-$${\color{#3a5e44}" I \space really \space like \space your \space spotty \space sweater  " }$$
+$${\color{#3b3b3b}" Hey \space mr. \space rager.  " }$$
 
 </p>
 
 <div align="center">
-	<img width = "500" src="https://media.discordapp.net/attachments/1268306594047721544/1292146527036379163/blur_edges_10.png?ex=6702acba&is=67015b3a&hm=7055675466ba5b9b259f2c1b6df8b58998d33be5a956ac3daf20d7e5ae770b1f&=&format=webp&quality=lossless&width=741&height=565"
+	<img width = "500" src="https://media.discordapp.net/attachments/1268306594047721544/1292670602053947503/blur_edges_12.png?ex=670494d0&is=67034350&hm=70a7ae883b33736fe243f11a4b78c88585165d2aafaf74e149a5e39d967d765c&=&format=webp&quality=lossless&width=622&height=565"
 
 </div>
 
@@ -40,8 +40,7 @@ $${\color{#3a5e44}" I \space really \space like \space your \space spotty \space
 
 <div align="center"> 
 	
- -
-[Strawpage](https://ellierocks.straw.page) -  [Atabook](https://ellieparkerbutpixel.atabook.org/)  - [Support palestine](https://arab.org/click-to-help/palestine/) - [Rentry](https://rentry.co/kacakym3)
+ [Strawpage](https://ellierocks.straw.page) -  [Atabook](https://ellieparkerbutpixel.atabook.org/)  - [Support palestine](https://arab.org/click-to-help/palestine/) - [Rentry](https://rentry.co/kacakym3)
 
 ![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=e8e8e8)
 
@@ -58,7 +57,7 @@ $${\color{#3a5e44}" I \space really \space like \space your \space spotty \space
 
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/ad11e38ff04bb8c14f2a5db9be0746cf/6d6a639539246533-3d/s400x600/29d8613f90527f214fa197ffcf4ccf048da515c5.pnj"
+	<img width = "555" src="https://64.media.tumblr.com/ad5c17436fa735c3f1e816601ee9bf8a/6d6a639539246533-6e/s400x600/dac806fb60da0db1f4d11933f0f4fcbfdcf29ec8.pnj"
 </div>
 
 
