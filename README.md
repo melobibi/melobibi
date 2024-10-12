@@ -4,7 +4,7 @@
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/171e10b4a7b9b58c7e90dbbdf1a9de60/9b3d23371e389d3a-0a/s400x600/6fc3b43aa48bf0c42d33293d4b6e61c3015f94b0.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/8190100981e4ac5939241075f048586a/5a2c3d9eb219bb3d-fb/s400x600/773d219c8d9238edb00f9fdfa545da630547a467.pnj"
 </div>
 
 
@@ -23,18 +23,18 @@
 <br />
 
 <p align="center"> 
-$${\color{#3b3b3b}" Hey \space mr. \space rager.  " }$$
+$${\color{#3b3b3b}" lean \space on \space my \space arm \space as \space you \space break \space my \space heart   " }$$
 
 </p>
 
 <div align="center">
-	<img width = "500" src="https://media.discordapp.net/attachments/1268306594047721544/1292670602053947503/blur_edges_12.png?ex=670494d0&is=67034350&hm=70a7ae883b33736fe243f11a4b78c88585165d2aafaf74e149a5e39d967d765c&=&format=webp&quality=lossless&width=622&height=565"
+	<img width = "500" src="https://media.discordapp.net/attachments/1268306594047721544/1294474911666016318/blur_edges_14.png?ex=670b2535&is=6709d3b5&hm=ab6d0dcc613f1d7d4a70de23377461d7ec27c8f07af571783037fb6c1b4849f9&=&format=webp&quality=lossless&width=452&height=565"
 
 </div>
 
 
 <div align="center">
-	<img width = "500" src="https://64.media.tumblr.com/02bc2459930712f968de4f14b38158e9/a9c1c1861b86c1fe-d3/s400x600/ccfa0f2e046ffaa5a36be76ee5d593ff0c1a6e60.pnj"
+	<img width = "500" src="https://64.media.tumblr.com/5946a566f208c7d588585286d3810577/6f624dffe1a644e9-76/s400x600/7cd415f5ecd69a3112d18be1da4fa17e5b3b75ae.pnj"
 
 
 
@@ -52,8 +52,6 @@ $${\color{#3b3b3b}" Hey \space mr. \space rager.  " }$$
 
 
 
-![Alt text](https://plasticdino.neocities.org/blinkie/friends.gif)  ![Alt text](https://blinkies.neocities.org/b/display/0113-autism.gif) ![Alt Text](https://plasticdino.neocities.org/blinkie/coloursdontrun.gif)  ![Alt text](https://plasticdino.neocities.org/blinkie/C0-F554-D8-9-C59-4-D47-99-C5-F6-B8-C5283514.gif) ![Alt Text](https://blinkies.neocities.org/b/display/0110-yeah.gif)
-
 
 
 <div align="center">
@@ -66,7 +64,7 @@ $${\color{#3b3b3b}" Hey \space mr. \space rager.  " }$$
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/e82dc06591be1abbf671f641c7770166/9b3d23371e389d3a-dd/s400x600/eb0335b95b92b95a9841bbdc37f8ac14f9d31ea3.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/8190100981e4ac5939241075f048586a/5a2c3d9eb219bb3d-fb/s400x600/773d219c8d9238edb00f9fdfa545da630547a467.pnj"
 </div>
 
 
