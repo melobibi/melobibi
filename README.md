@@ -40,7 +40,7 @@ $${\color{#3b3b3b}" lean \space on \space my \space arm \space as \space you \sp
 
 <div align="center"> 
 	
- [Strawpage](https://ellierocks.straw.page) -  [Atabook](https://ellieparkerbutpixel.atabook.org/)  - [Support palestine](https://arab.org/click-to-help/palestine/) - [Rentry](https://rentry.co/kacakym3)
+ [Strawpage](https://ellierocks.straw.page) -  [Atabook](https://ellieparkerbutpixel.atabook.org/)  - [Support palestine](https://arab.org/click-to-help/palestine/) -
 
 ![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=e8e8e8)
 
