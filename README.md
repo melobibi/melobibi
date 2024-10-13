@@ -4,7 +4,7 @@
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/8190100981e4ac5939241075f048586a/5a2c3d9eb219bb3d-fb/s400x600/773d219c8d9238edb00f9fdfa545da630547a467.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/66000087ef4aebb0179333d9d62d8749/2cf6d900015f7acf-50/s400x600/281d0a3fd51356e7cde2ef27331279023792d2e1.pnj"
 </div>
 
 
@@ -12,7 +12,7 @@
 
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/ad5c17436fa735c3f1e816601ee9bf8a/6d6a639539246533-6e/s400x600/dac806fb60da0db1f4d11933f0f4fcbfdcf29ec8.pnj"
+	<img width = "555" src="https://64.media.tumblr.com/17224e0430972a4071f15b0ad9f634ed/914a6aaac7e53504-d0/s400x600/bea0a8b12b2c1cd4b24ba1b8745ca2f6d5615741.pnj"
 </div>
 
 
@@ -34,7 +34,7 @@ $${\color{#3b3b3b}" lean \space on \space my \space arm \space as \space you \sp
 
 
 <div align="center">
-	<img width = "500" src="https://64.media.tumblr.com/5946a566f208c7d588585286d3810577/6f624dffe1a644e9-76/s400x600/7cd415f5ecd69a3112d18be1da4fa17e5b3b75ae.pnj"
+	<img width = "500" src="https://64.media.tumblr.com/516d952404d6dea7886e42f52aba6632/dd49b043ff65cda4-e4/s2048x3072/2b2d270e30020a5e21002d4353502232f39f1f1c.pnj"
 
 
 
@@ -55,7 +55,7 @@ $${\color{#3b3b3b}" lean \space on \space my \space arm \space as \space you \sp
 
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/ad5c17436fa735c3f1e816601ee9bf8a/6d6a639539246533-6e/s400x600/dac806fb60da0db1f4d11933f0f4fcbfdcf29ec8.pnj"
+	<img width = "555" src="https://64.media.tumblr.com/17224e0430972a4071f15b0ad9f634ed/914a6aaac7e53504-d0/s400x600/bea0a8b12b2c1cd4b24ba1b8745ca2f6d5615741.pnj"
 </div>
 
 
@@ -64,7 +64,7 @@ $${\color{#3b3b3b}" lean \space on \space my \space arm \space as \space you \sp
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/8190100981e4ac5939241075f048586a/5a2c3d9eb219bb3d-fb/s400x600/773d219c8d9238edb00f9fdfa545da630547a467.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/0cce81df76bdf5453a44d9f7301d9525/2cf6d900015f7acf-25/s400x600/cab3abb4652b5249154bddf070f314a16ca64bff.pnj"
 </div>
 
 
