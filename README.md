@@ -4,7 +4,7 @@
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/66000087ef4aebb0179333d9d62d8749/2cf6d900015f7acf-50/s400x600/281d0a3fd51356e7cde2ef27331279023792d2e1.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/73af88f0f4cdbfa76e4acbb214e593c7/2a577b39b15547dc-e8/s400x600/38b4105c263597ef411c69fd0663e903064fe00c.pnj"
 </div>
 
 
@@ -12,7 +12,7 @@
 
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/17224e0430972a4071f15b0ad9f634ed/914a6aaac7e53504-d0/s400x600/bea0a8b12b2c1cd4b24ba1b8745ca2f6d5615741.pnj"
+	<img width = "555" src="https://64.media.tumblr.com/54dad7a6d35f70f3acabc05cf55e2b74/0b99310dcf29e155-9a/s400x600/9c4a47aaf52fd19612b52322e85beb4c6c820a8d.pnj"
 </div>
 
 
@@ -23,18 +23,18 @@
 <br />
 
 <p align="center"> 
-$${\color{#3b3b3b}" lean \space on \space my \space arm \space as \space you \space break \space my \space heart   " }$$
+$${\color{#b0d2eb}" so \space i \space cant \space watch \space her \space fall \space apart   " }$$
 
 </p>
 
 <div align="center">
-	<img width = "500" src="https://media.discordapp.net/attachments/1268306594047721544/1294474911666016318/blur_edges_14.png?ex=670b2535&is=6709d3b5&hm=ab6d0dcc613f1d7d4a70de23377461d7ec27c8f07af571783037fb6c1b4849f9&=&format=webp&quality=lossless&width=452&height=565"
+	<img width = "500" src="https://media.discordapp.net/attachments/1268306594047721544/1294857865563209819/blur_edges_15.png?ex=670c89dc&is=670b385c&hm=ca036783fa7ad21e195d9c0b3a4e19582c2f7d7d8e6307991816acbf3883b51c&=&format=webp&quality=lossless&width=900&height=506"
 
 </div>
 
 
 <div align="center">
-	<img width = "500" src="https://64.media.tumblr.com/516d952404d6dea7886e42f52aba6632/dd49b043ff65cda4-e4/s2048x3072/2b2d270e30020a5e21002d4353502232f39f1f1c.pnj"
+	<img width = "500" src="https://64.media.tumblr.com/e6706417709dfefa7568658d8f24f355/5db5b7eb5a74ed1c-a3/s400x600/9015ccc78f30ed5d406e510a91902126b0b71563.pnj"
 
 
 
@@ -55,7 +55,7 @@ $${\color{#3b3b3b}" lean \space on \space my \space arm \space as \space you \sp
 
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/17224e0430972a4071f15b0ad9f634ed/914a6aaac7e53504-d0/s400x600/bea0a8b12b2c1cd4b24ba1b8745ca2f6d5615741.pnj"
+	<img width = "555" src="https://64.media.tumblr.com/54dad7a6d35f70f3acabc05cf55e2b74/0b99310dcf29e155-9a/s400x600/9c4a47aaf52fd19612b52322e85beb4c6c820a8d.pnj"
 </div>
 
 
@@ -64,7 +64,7 @@ $${\color{#3b3b3b}" lean \space on \space my \space arm \space as \space you \sp
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/0cce81df76bdf5453a44d9f7301d9525/2cf6d900015f7acf-25/s400x600/cab3abb4652b5249154bddf070f314a16ca64bff.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/73af88f0f4cdbfa76e4acbb214e593c7/2a577b39b15547dc-e8/s400x600/38b4105c263597ef411c69fd0663e903064fe00c.pnj"
 </div>
 
 
