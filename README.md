@@ -4,7 +4,7 @@
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/73af88f0f4cdbfa76e4acbb214e593c7/2a577b39b15547dc-e8/s400x600/38b4105c263597ef411c69fd0663e903064fe00c.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/08caea0a76ea14f65d34cee14c371ada/6d29c833135c5084-12/s400x600/712d726ca57e0022acf896633a2fd8feb2efcee3.pnj"
 </div>
 
 
@@ -12,7 +12,8 @@
 
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/54dad7a6d35f70f3acabc05cf55e2b74/0b99310dcf29e155-9a/s400x600/9c4a47aaf52fd19612b52322e85beb4c6c820a8d.pnj"
+	<img width = "555" src="https://media.discordapp.net/attachments/1017851791540506634/1239033891772305549/tumblr_d75def5e434e0739a5e16dee284a9693_b4c4baa5_1280.png?ex=670e74fb&is=670d237b&hm=85125d51aaf09720c6eac0fc545bdf37df155fe5c1b2f6d3afffbc0d709e99e8&=&format=webp&quality=lossless&width=1440&height=155"
+
 </div>
 
 
@@ -23,7 +24,7 @@
 <br />
 
 <p align="center"> 
-$${\color{#b0d2eb}" so \space i \space cant \space watch \space her \space fall \space apart   " }$$
+$${\color{#b0d2eb}" your \space fevers \space making \space me \space sick  " }$$
 
 </p>
 
@@ -55,7 +56,7 @@ $${\color{#b0d2eb}" so \space i \space cant \space watch \space her \space fall 
 
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/54dad7a6d35f70f3acabc05cf55e2b74/0b99310dcf29e155-9a/s400x600/9c4a47aaf52fd19612b52322e85beb4c6c820a8d.pnj"
+	<img width = "555" src="https://media.discordapp.net/attachments/1017851791540506634/1239033891772305549/tumblr_d75def5e434e0739a5e16dee284a9693_b4c4baa5_1280.png?ex=670e74fb&is=670d237b&hm=85125d51aaf09720c6eac0fc545bdf37df155fe5c1b2f6d3afffbc0d709e99e8&=&format=webp&quality=lossless&width=1440&height=155"
 </div>
 
 
@@ -64,7 +65,7 @@ $${\color{#b0d2eb}" so \space i \space cant \space watch \space her \space fall 
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/73af88f0f4cdbfa76e4acbb214e593c7/2a577b39b15547dc-e8/s400x600/38b4105c263597ef411c69fd0663e903064fe00c.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/957291d390e06d3532457c9d7b724b5c/6d29c833135c5084-57/s400x600/6f59fa1698f1567231b9e17a3e3790b72d30b0c6.pnj"
 </div>
 
 
