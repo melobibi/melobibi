@@ -4,7 +4,7 @@
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/08caea0a76ea14f65d34cee14c371ada/6d29c833135c5084-12/s400x600/712d726ca57e0022acf896633a2fd8feb2efcee3.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/2902abbb2b7c419066324a48f3aec91d/5a2c3d9eb219bb3d-e7/s400x600/982fb23748af756e2f09d0b3aeb2afa5eb66a23a.pnj"
 </div>
 
 
@@ -12,7 +12,7 @@
 
 
 <div align="center">
-	<img width = "555" src="https://media.discordapp.net/attachments/1017851791540506634/1239033891772305549/tumblr_d75def5e434e0739a5e16dee284a9693_b4c4baa5_1280.png?ex=670e74fb&is=670d237b&hm=85125d51aaf09720c6eac0fc545bdf37df155fe5c1b2f6d3afffbc0d709e99e8&=&format=webp&quality=lossless&width=1440&height=155"
+	<img width = "555" src="https://64.media.tumblr.com/e0ec9d1476a681412daeac69bbeddc03/69264d65aaa9f050-b4/s540x810/4763148a0dd01f7523784588f415ee18d8a3a4e9.pnj"
 
 </div>
 
@@ -24,18 +24,18 @@
 <br />
 
 <p align="center"> 
-$${\color{#b0d2eb}" youll \space always \space be \space the \space dumb \space blonde " }$$
+$${\color{#000000}" you \space spin \space me \space all \space around \space then \space you \space ask \space me \space not \space to \space spin " }$$
 
 </p>
 
 <div align="center">
-	<img width = "700" src="https://media.discordapp.net/attachments/1295481697701462046/1295928854216572968/blur_edges_17.png?ex=67106f4c&is=670f1dcc&hm=a720957776c46c84f85e398c1eca7e08bc4faa83b4986cecb50ed97e0964364b&=&format=webp&quality=lossless&width=687&height=383"
+	<img width = "700" src="https://media.discordapp.net/attachments/1268306594047721544/1296978533154947103/blur_edges_19.png?ex=671440e3&is=6712ef63&hm=52efc3205232668b66e47ff7a163dc040967fc5822ff14125b9febe3e874837c&=&format=webp&quality=lossless&width=622&height=565"
 
 </div>
 
 
 <div align="center">
-	<img width = "500" src="https://64.media.tumblr.com/d8ad64e4919bd3399dfa0007454a8bcc/d7a311d22a3343ec-c3/s400x600/3bb469a8dfb1bcaee8bb048a6593ba68fce2e5f3.pnj"
+	<img width = "500" src="https://64.media.tumblr.com/74b36e91a06e8cebb2d42059bc2225e4/f24f08240a62a968-9a/s400x600/afbc1e4d1ae1b8f4272e9b042494a7fca492cea3.gifv"
 
 
 
@@ -43,7 +43,7 @@ $${\color{#b0d2eb}" youll \space always \space be \space the \space dumb \space 
 	
  [Strawpage](https://ellierocks.straw.page) -  [Atabook](https://ellieparkerbutpixel.atabook.org/)  - [Support palestine](https://arab.org/click-to-help/palestine/) -
 
-![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=e8e8e8)
+![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=000000)
 
 	
 
@@ -56,7 +56,7 @@ $${\color{#b0d2eb}" youll \space always \space be \space the \space dumb \space 
 
 
 <div align="center">
-	<img width = "555" src="https://media.discordapp.net/attachments/1017851791540506634/1239033891772305549/tumblr_d75def5e434e0739a5e16dee284a9693_b4c4baa5_1280.png?ex=670e74fb&is=670d237b&hm=85125d51aaf09720c6eac0fc545bdf37df155fe5c1b2f6d3afffbc0d709e99e8&=&format=webp&quality=lossless&width=1440&height=155"
+	<img width = "555" src="https://64.media.tumblr.com/e0ec9d1476a681412daeac69bbeddc03/69264d65aaa9f050-b4/s540x810/4763148a0dd01f7523784588f415ee18d8a3a4e9.pnj"
 </div>
 
 
@@ -65,7 +65,7 @@ $${\color{#b0d2eb}" youll \space always \space be \space the \space dumb \space 
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/957291d390e06d3532457c9d7b724b5c/6d29c833135c5084-57/s400x600/6f59fa1698f1567231b9e17a3e3790b72d30b0c6.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/2902abbb2b7c419066324a48f3aec91d/5a2c3d9eb219bb3d-e7/s400x600/982fb23748af756e2f09d0b3aeb2afa5eb66a23a.pnj"
 </div>
 
 
