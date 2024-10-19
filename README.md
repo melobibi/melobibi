@@ -41,7 +41,7 @@ $${\color{#000000}" you \space spin \space me \space all \space around \space th
 
 <div align="center"> 
 	
- [Strawpage](https://ellierocks.straw.page) -  [Atabook](https://ellieparkerbutpixel.atabook.org/)  - [Support palestine](https://arab.org/click-to-help/palestine/) -
+ [Strawpage](https://ellieparker.straw.page) -  [Atabook](https://ellieparkerbutpixel.atabook.org/)  - [Support palestine](https://arab.org/click-to-help/palestine/) -
 
 ![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=000000)
 
