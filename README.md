@@ -4,7 +4,7 @@
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/2902abbb2b7c419066324a48f3aec91d/5a2c3d9eb219bb3d-e7/s400x600/982fb23748af756e2f09d0b3aeb2afa5eb66a23a.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/bfe4212aa0e98ba30d5c2e20dd04a90a/e2c987e3fe889c94-42/s400x600/66ec4af058111d82cdd143a335f2f26de5524e24.pnj"
 </div>
 
 
@@ -12,7 +12,7 @@
 
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/e0ec9d1476a681412daeac69bbeddc03/69264d65aaa9f050-b4/s540x810/4763148a0dd01f7523784588f415ee18d8a3a4e9.pnj"
+	<img width = "555" src="https://64.media.tumblr.com/6cbe9b0e43b07fe671249570e9bdfca6/e2c987e3fe889c94-6b/s400x600/f966b1a9ff7556ae64b25caa6fcfe58bbfb7eef5.pnj"
 
 </div>
 
@@ -24,18 +24,18 @@
 <br />
 
 <p align="center"> 
-$${\color{#000000}" you \space spin \space me \space all \space around \space then \space you \space ask \space me \space not \space to \space spin " }$$
+$${\color{#bfbfbf}" I \space dont \space wanna \space be \space the \space owner \space of \space your \space fanasty, \space i \space just \space wanna \space be \space apart \space of \space your \space family " }$$
 
 </p>
 
 <div align="center">
-	<img width = "700" src="https://media.discordapp.net/attachments/1268306594047721544/1296978533154947103/blur_edges_19.png?ex=671440e3&is=6712ef63&hm=52efc3205232668b66e47ff7a163dc040967fc5822ff14125b9febe3e874837c&=&format=webp&quality=lossless&width=622&height=565"
+	<img width = "700" src="https://files.catbox.moe/uverjl.png"
 
 </div>
 
 
 <div align="center">
-	<img width = "500" src="https://64.media.tumblr.com/74b36e91a06e8cebb2d42059bc2225e4/f24f08240a62a968-9a/s400x600/afbc1e4d1ae1b8f4272e9b042494a7fca492cea3.gifv"
+	<img width = "500" src="https://64.media.tumblr.com/2a3da1602f918c2d579e590ca9188264/a9c1c1861b86c1fe-28/s400x600/5fc5ef56d53c3e32de451693c2c6a32a0659a2ad.pnj"
 
 
 
@@ -43,7 +43,7 @@ $${\color{#000000}" you \space spin \space me \space all \space around \space th
 	
  [Strawpage](https://ellieparker.straw.page) -  [Atabook](https://ellieparkerbutpixel.atabook.org/)  - [Support palestine](https://arab.org/click-to-help/palestine/) -
 
-![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=000000)
+![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=bfbfbf)
 
 	
 
@@ -56,7 +56,7 @@ $${\color{#000000}" you \space spin \space me \space all \space around \space th
 
 
 <div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/e0ec9d1476a681412daeac69bbeddc03/69264d65aaa9f050-b4/s540x810/4763148a0dd01f7523784588f415ee18d8a3a4e9.pnj"
+	<img width = "555" src="https://64.media.tumblr.com/6cbe9b0e43b07fe671249570e9bdfca6/e2c987e3fe889c94-6b/s400x600/f966b1a9ff7556ae64b25caa6fcfe58bbfb7eef5.pnj"
 </div>
 
 
@@ -65,7 +65,7 @@ $${\color{#000000}" you \space spin \space me \space all \space around \space th
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/2902abbb2b7c419066324a48f3aec91d/5a2c3d9eb219bb3d-e7/s400x600/982fb23748af756e2f09d0b3aeb2afa5eb66a23a.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/7e38ddd9843e3e197e3b9c578333461a/e2c987e3fe889c94-0e/s400x600/62c3f520b7a9e7f5cac26302a3e4828e79a1df1e.pnj"
 </div>
 
 
