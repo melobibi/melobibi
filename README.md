@@ -41,7 +41,7 @@ $${\color{#bfbfbf}" I \space dont \space wanna \space be \space the \space owner
 
 <div align="center"> 
 	
- [Strawpage](https://ellieparker.straw.page) . [Atabook](https://ellieparkerbutpixel.atabook.org/)  . [Support palestine](https://arab.org/click-to-help/palestine/)  ` [Rentry](https://rentry.co/bratify)
+ [Strawpage](https://elliess.straw.page) . [Atabook](https://ellieparkerbutpixel.atabook.org/)  . [Support palestine](https://arab.org/click-to-help/palestine/)  ` [Rentry](https://rentry.co/bratify)
 
 ![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=bfbfbf)
 
