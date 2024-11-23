@@ -4,17 +4,12 @@
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/bfe4212aa0e98ba30d5c2e20dd04a90a/e2c987e3fe889c94-42/s400x600/66ec4af058111d82cdd143a335f2f26de5524e24.pnj"
+	<img width = "850" src="https://files.catbox.moe/56lukv.png"
 </div>
 
 
 
 
-
-<div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/6cbe9b0e43b07fe671249570e9bdfca6/e2c987e3fe889c94-6b/s400x600/f966b1a9ff7556ae64b25caa6fcfe58bbfb7eef5.pnj"
-
-</div>
 
 
 
@@ -24,24 +19,23 @@
 <br />
 
 <p align="center"> 
-$${\color{#bfbfbf}" I \space dont \space wanna \space be \space the \space owner \space of \space your \space fanasty, \space i \space just \space wanna \space be \space apart \space of \space your \space family " }$$
+$${\color{#bfbfbf}"I \space dont \space belong \space anywhere, \space I \space am \space worm \space food" }$$
 
 </p>
 
 <div align="center">
-	<img width = "700" src="https://files.catbox.moe/uverjl.png"
+	<img width = "580" src="https://files.catbox.moe/1cqbv6.png"
 
 </div>
 
 
 <div align="center">
-	<img width = "500" src="https://64.media.tumblr.com/2a3da1602f918c2d579e590ca9188264/a9c1c1861b86c1fe-28/s400x600/5fc5ef56d53c3e32de451693c2c6a32a0659a2ad.pnj"
-
+	<img width = "500" src="https://64.media.tumblr.com/05ac8ba1484d216da9a37cad2e1f9c58/58f00e9448da6bcb-76/s1280x1920/43bd7e350d3fcff8615b91e9c813d6b93402b1e1.pnj"
 
 
 <div align="center"> 
 	
- [Strawpage](https://elliess.straw.page) . [Atabook](https://ellieparkerbutpixel.atabook.org/)  . [Support palestine](https://arab.org/click-to-help/palestine/)  ` [Rentry](https://rentry.co/bratify)
+ [Strawpage](https://ellieparker.straw.page) . [Atabook](https://ellieparkerbutpixel.atabook.org/)  . [Support palestine](https://arab.org/click-to-help/palestine/)  ` [Rentry](https://rentry.co/ellieparker)
 
 ![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=bfbfbf)
 
@@ -55,17 +49,13 @@ $${\color{#bfbfbf}" I \space dont \space wanna \space be \space the \space owner
 
 
 
-<div align="center">
-	<img width = "555" src="https://64.media.tumblr.com/6cbe9b0e43b07fe671249570e9bdfca6/e2c987e3fe889c94-6b/s400x600/f966b1a9ff7556ae64b25caa6fcfe58bbfb7eef5.pnj"
-</div>
-
 
 
 
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/7e38ddd9843e3e197e3b9c578333461a/e2c987e3fe889c94-0e/s400x600/62c3f520b7a9e7f5cac26302a3e4828e79a1df1e.pnj"
+	<img width = "850" src="https://files.catbox.moe/56lukv.png"
 </div>
 
 
