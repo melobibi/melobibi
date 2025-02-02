@@ -4,7 +4,7 @@
 
 
 <div align="center">
-	<img width = "850" src="https://files.catbox.moe/56lukv.png"
+	<img width = "850" src="https://64.media.tumblr.com/4d940d18cc21bbc340ca739fbcbedd2e/ace9b895ae8e70d5-e5/s400x600/4e0bf0eeb2411840d9289509458801ffc9c42bd6.pnj"
 </div>
 
 
@@ -19,12 +19,12 @@
 <br />
 
 <p align="center"> 
-$${\color{#bfbfbf}"I \space dont \space belong \space anywhere, \space I \space am \space worm \space food" }$$
+$${\color{#bfbfbf}"Us \space against \space the \space world, \space just \space me \space and \space you!" }$$
 
 </p>
 
 <div align="center">
-	<img width = "580" src="https://files.catbox.moe/1cqbv6.png"
+	<img width = "580" src="https://files.catbox.moe/xrzkse.png"
 
 </div>
 
@@ -55,7 +55,7 @@ $${\color{#bfbfbf}"I \space dont \space belong \space anywhere, \space I \space 
 
 
 <div align="center">
-	<img width = "850" src="https://files.catbox.moe/56lukv.png"
+	<img width = "850" src="https://files.catbox.moe/gvgun3.pnj"
 </div>
 
 
