@@ -35,7 +35,7 @@ $${\color{#bfbfbf}"Us \space against \space the \space world, \space just \space
 
 <div align="center"> 
 	
- [Strawpage](https://ellieparker.straw.page) . [Atabook](https://ellieparkerbutpixel.atabook.org/)  . [Support palestine](https://arab.org/click-to-help/palestine/)  ` [Rentry](https://rentry.co/ellieparker)
+ [Strawpage](https://sigmaohiomelobibi.straw.page) . [Atabook](https://ellieparkerbutpixel.atabook.org/)  . [Support palestine](https://arab.org/click-to-help/palestine/)  ` [Rentry](https://rentry.co/ellieparker)
 
 ![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=bfbfbf)
 
