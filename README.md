@@ -53,12 +53,4 @@ $${\color{#bfbfbf}"Us \space against \space the \space world, \space just \space
 
 
 
-
-<div align="center">
-	<img width = "850" src="https://files.catbox.moe/gvgun3.pnj"
-</div>
-
-
-
-
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sqsr27y4wtab4kbmkompyyyrfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
