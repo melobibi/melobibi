@@ -4,9 +4,8 @@
 
 
 <div align="center">
-	<img width = "850" src="https://64.media.tumblr.com/4d940d18cc21bbc340ca739fbcbedd2e/ace9b895ae8e70d5-e5/s400x600/4e0bf0eeb2411840d9289509458801ffc9c42bd6.pnj"
+	<img width = "850" src="https://64.media.tumblr.com/6d142b542c1e186b214bea64dc95385b/0a41d82bd77cb5ce-c5/s400x600/ef9dc7f7c02cb720b38a872e4a6c978944c3c205.pnj"
 </div>
-
 
 
 
@@ -46,6 +45,9 @@ $${\color{#bfbfbf}"Us \space against \space the \space world, \space just \space
 
 
 
+<div align="center">
+	<img width = "850" src="https://64.media.tumblr.com/4c84192a9f08bdfa74ddbe2f1d943c8c/0a41d82bd77cb5ce-f3/s400x600/94d22838ce307eb81d131d323c65ed65e541df57.pnj"
+</div>
 
 
 
