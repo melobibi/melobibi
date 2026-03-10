@@ -34,7 +34,7 @@ $${\color{#bfbfbf}"Not \space alot, \space just \space forever." }$$
 
 <div align="center"> 
 	
- [Strawpage](https://sigmaohiomelobibi.straw.page) . [Atabook](https://ellieparkerbutpixel.atabook.org/)  . [Support palestine](https://arab.org/click-to-help/palestine/)  ` [Rentry](https://rentry.co/bibis)
+ [Strawpage](https://sigmaohiomelobibi.straw.page) . [Atabook](https://ellieparkerbutpixel.atabook.org/)  . [Support palestine](https://arab.org/click-to-help/palestine/)  ` [Rentry](https://rentry.co/melobibi)
 
 ![](https://komarev.com/ghpvc/?username=neurodiellie&label=profile+gang&style=for-the-badge&color=bfbfbf)
 
