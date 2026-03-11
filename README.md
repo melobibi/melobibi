@@ -23,7 +23,7 @@ $${\color{#bfbfbf}"Not \space alot, \space just \space forever." }$$
 </p>
 
 <div align="center">
-	<img width = "580" src="https://files.catbox.moe/em5y4p.png"
+	<img width = "580" src="https://files.catbox.moe/3utjz4.jpg"
 
 </div>
 
